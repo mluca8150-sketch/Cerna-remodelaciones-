@@ -64,7 +64,7 @@ export const servicesData: ServiceItem[] = [
     title: "Remodelación de Cocinas",
     shortDescription: "Diseño y renovación integral de cocinas optimizando funcionalidad, almacenamiento y estética.",
     longDescription: "Transformamos cocinas combinando diseño moderno y alta durabilidad. Realizamos cambio de cañerías, instalación eléctrica adaptada a electrodomésticos de alta potencia, revestimientos cerámicos o porcelanatos, instalaciones de mesadas de granito, cuarzo o mármol, y colocación de carpintería y amoblamientos a medida para optimizar cada rincón.",
-    image: "/src/assets/images/kitchen_remodel_1781879655000.jpg",
+    image: "/images/kitchen_remodel_1781879655000.jpg",
     highlights: ["Sustitución completa de cañerías e instalaciones", "Colocación de mesadas premium y bachas dobles", "Desarrollo de mobiliario de melamina a medida", "Distribuciones inteligentes en U, L o con isla flotante"],
     durationWeeksRange: "2 - 4 semanas"
   },
@@ -73,7 +73,7 @@ export const servicesData: ServiceItem[] = [
     title: "Remodelación de Baños",
     shortDescription: "Creación de baños modernos, funcionales y resistentes a la humedad, con terminaciones de alta calidad.",
     longDescription: "Damos vida a baños elegantes y confortables. Nos encargamos de la impermeabilización completa para evitar filtraciones, instalación de cañerías de agua fría, caliente y desagües, colocación de duchas y mamparas premium de vidrio templado, revestimiento fino con cortes a escuadra impecables, instalación de sanitarios y griferías monocomando de primeras marcas.",
-    image: "/src/assets/images/bathroom_remodel_1781879668565.jpg",
+    image: "/images/bathroom_remodel_1781879668565.jpg",
     highlights: ["Colocación experta de porcelanatos y azulejos", "Instalación de mamparas de vidrio templado y desagües lineales", "Guardas decorativas e iluminación perimetral sutil", "Renovación integral de sistemas fluviales y cloacales"],
     durationWeeksRange: "2 - 3 semanas"
   },
@@ -82,7 +82,7 @@ export const servicesData: ServiceItem[] = [
     title: "Reciclado de Departamentos",
     shortDescription: "Reformas integrales llave en mano para refaccionar unidades antiguas o redistribuir espacios.",
     longDescription: "Renovamos departamentos de forma total o parcial para adaptarlos a el estilo de vida actual. Demolición selectiva de muros para crear ambientes de concepto abierto (open plan), renovación de tabiquería de yeso, tendidos de cableado eléctrico homologados, carpintería metálica de alta calidad (incluyendo colocación experta de taparrollos de chapa) y pintura general.",
-    image: "/src/assets/images/apartment_remodel_1781879679640.jpg",
+    image: "/images/apartment_remodel_1781879679640.jpg",
     highlights: ["Unión de living y cocina (concepto open concept)", "Pintura general al látex y enduido completo", "Instalación y reparación de aberturas y aberturas taparrollo", "Colocación de flotantes, vinílicos o restauración de parquet"],
     durationWeeksRange: "4 - 8 semanas"
   }
