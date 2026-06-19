@@ -1,0 +1,6 @@
+{
+  "name": "Cerna Remodelaciones",
+  "description": "Sitio web oficial de Cerna Remodelaciones. Reformas y remodelaciones profesionales de cocinas, baños y departamentos en Palermo, Buenos Aires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
