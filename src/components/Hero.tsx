@@ -90,7 +90,7 @@ export default function Hero({ onNavigate }: HeroProps) {
             <div className="relative h-full w-full bg-stone-100 rounded-[30px] sm:rounded-[40px] overflow-hidden border-8 border-white shadow-organic-lg aspect-4/3 lg:aspect-auto lg:min-h-[500px]">
               
               <img
-                src="/src/assets/images/hero_remodel_1781879639513.jpg"
+                src="/images/hero_remodel_1781879639513.jpg"
                 alt="Proyecto Cerna Palermo"
                 className="w-full h-full object-cover object-center transform hover:scale-102 transition-transform duration-700"
                 referrerPolicy="no-referrer"
